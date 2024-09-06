@@ -1,0 +1,25 @@
+Start testing: Sep 06 18:47 EDT
+----------------------------------------------------------
+1/1 Testing: unittest
+1/1 Test: unittest
+Command: "/Users/ramon/CLionProjects/CSC109/ArtWork_Label/cmake-build-debug/unittest"
+Directory: /Users/ramon/CLionProjects/CSC109/ArtWork_Label/cmake-build-debug
+"unittest" start time: Sep 06 18:47 EDT
+Output:
+----------------------------------------------------------
+Running cxxtest tests (1 test)Artist: unknown (unknown)
+Artist: Vincent van Gogh (1853 to 1890)
+Artist: unknown (unknown)
+Title: unknown, -1
+Artist: Vincent van Gogh (1853 to 1890)
+Title: Starry Night, 1889
+.OK!
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"unittest" end time: Sep 06 18:47 EDT
+"unittest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 06 18:47 EDT

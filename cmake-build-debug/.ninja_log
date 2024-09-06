@@ -1,0 +1,11 @@
+# ninja log v6
+0	55	1725662820432545700	runner.cpp	963f5aafdbedae8c
+0	55	1725662820432545700	/Users/ramon/CLionProjects/CSC109/ArtWork_Label/cmake-build-debug/runner.cpp	963f5aafdbedae8c
+56	330	1725662820435619556	CMakeFiles/unittest.dir/Artist.cpp.o	88bfd5ca9c46713f
+1	333	1725662820380627688	CMakeFiles/ArtWork_Label.dir/main.cpp.o	626d31eba65c507a
+56	333	1725662820435482057	CMakeFiles/unittest.dir/Artwork.cpp.o	ad1ac79ce0000a5a
+1	334	1725662820380762188	CMakeFiles/ArtWork_Label.dir/Artist.cpp.o	4b328c535e409d7c
+1	334	1725662820380898687	CMakeFiles/ArtWork_Label.dir/Artwork.cpp.o	304032150c6e31c0
+335	366	1725662820714419995	ArtWork_Label	ce05c779e99102e2
+55	503	1725662820435201100	CMakeFiles/unittest.dir/runner.cpp.o	40e4800709e86558
+503	532	1725662820882910242	unittest	ba4f043ddd698f64
